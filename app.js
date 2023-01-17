@@ -28,3 +28,9 @@ console.log("adding note")
 }else if(command === 'remove'){
     console.log('removing note!')
 }
+
+ if(command === 'add'){
+     console.log("adding note")
+ }else if(command === 'remove'){
+     console.log('removing note!')
+ }
